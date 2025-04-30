@@ -29,9 +29,10 @@ A modern real-time chat application built with React frontend and Go backend, fe
 - Go (v1.16 or higher)
 - npm or yarn package manager
 
-## Installation
+## Cloning the Repo
 
 ```bash
+
 https://github.com/MistaaOlivaaa/Chat-Application-in-Go-with-ReactJS.git
 
 
@@ -46,7 +47,6 @@ cd backend
 
 2. Install Go dependencies:
 ```bash
-go mod tidy
 go get github.com/gorilla/websocket
 
 ```
