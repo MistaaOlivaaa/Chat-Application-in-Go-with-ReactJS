@@ -33,7 +33,7 @@ A modern real-time chat application built with React frontend and Go backend, fe
 
 ```bash
 
-https://github.com/MistaaOlivaaa/Chat-Application-in-Go-with-ReactJS.git
+git clone https://github.com/MistaaOlivaaa/Chat-Application-in-Go-with-ReactJS.git
 
 
 ```
